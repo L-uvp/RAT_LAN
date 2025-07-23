@@ -2,7 +2,7 @@
 import socket
 import os
 
-SERVER_IP = '192.168.143.12'  # Replace with the server's LAN IP address
+SERVER_IP = ''  # Replace with the server's LAN IP address
 PORT = 12345
 BUFFER_SIZE = 4096
 ss_count = 0   #screenshot count

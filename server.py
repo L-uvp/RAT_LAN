@@ -3,7 +3,7 @@ import socket
 import subprocess
 import pyautogui # for screenshot
 
-HOST = '0.0.0.0'
+HOST = ''
 PORT = 12345
 BUFFER_SIZE = 8192
 
